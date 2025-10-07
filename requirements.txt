@@ -1,0 +1,9 @@
+opencv-python
+numpy
+easyocr
+scikit-image
+scikit-learn
+python-dateutil
+regex
+pandas
+tqdm
